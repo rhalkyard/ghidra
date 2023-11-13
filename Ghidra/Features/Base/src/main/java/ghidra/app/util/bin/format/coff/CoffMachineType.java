@@ -140,6 +140,11 @@ public class CoffMachineType {
 	public final static short IMAGE_FILE_MACHINE_M68KMAGIC = 0x0268;
 
 	/**
+	 * Motorola 68000 (Apple A/UX)
+	 */
+	public final static short IMAGE_FILE_MACHINE_M68KMAGIC_AUX = 0x0150;
+
+	/**
 	 * PIC-30 (dsPIC30F)
 	 */
 	public final static short IMAGE_FILE_MACHINE_PIC30 = 0x1236;
